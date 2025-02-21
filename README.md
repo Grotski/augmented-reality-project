@@ -1,5 +1,5 @@
 # Augmented Reality Project
-Hi this a simple Augmented Reality Project.
+Hi this is a simple Augmented Reality Project.
 
 # Usage
 1. **Clone the Repository**:
@@ -28,6 +28,7 @@ I welcome contributions. To contribute:
    ```bash
    git push origin feature/YourFeatureName
 4. **Open Pull Request.**
+
 
 
 
