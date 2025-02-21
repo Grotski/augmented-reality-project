@@ -4,7 +4,7 @@ import numpy as np
 
 
 def extract_keypoints(image_path, output_path):
-    image = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
+    image = cv2.imread(image_path, 0)
     if image is None:
         print(f"Failed to read image: {image_path}")
         return

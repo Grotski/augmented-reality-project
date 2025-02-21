@@ -40,6 +40,7 @@ pyquaternion==0.9.9
 python-dateutil==2.9.0.post0
 pytz==2024.2
 PyYAML==6.0.2
+py2app==0.28.8
 pyzbar==0.1.9
 referencing==0.35.1
 requests==2.32.3
